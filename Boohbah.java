@@ -12,6 +12,6 @@ public class Boohbah {
         return danceMove;
     }
     public String preformMove(){
-        return "Zing Zing Zingbah performs Spin and Sparkle";
+        return  this.name+" performs "+this.danceMove;
     }
 }
